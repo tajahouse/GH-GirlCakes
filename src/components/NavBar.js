@@ -5,6 +5,7 @@ const NavBar = () =>{
     return (
         <>
         <h1>GH GirlCakes</h1>
+        <p>Testing Push</p>
         </>
     );
 };
