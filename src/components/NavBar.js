@@ -8,6 +8,8 @@ const style = {
     alignItems: "center",
     justifyContent: "space-evenly",
     borderBottom: "2px solid lightgrey",
+    maxWidth:'100%'
+
   },
 };
 //Drop down menu

@@ -1,7 +1,8 @@
 import './App.css';
 import LandingPageCustomer from './components/Customer/LandingPageCustomer';
-import { CarouselImgs } from './components/Styles/Cards'
+import { CarouselImgs, Cards } from './components/Styles/Cards'
 import NavBar from './components/NavBar';
+
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <NavBar/>
       <LandingPageCustomer/>
       <CarouselImgs/>
+      <Cards/>
        
     </div>
   );
